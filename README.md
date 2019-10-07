@@ -8,7 +8,7 @@ Question: In the last 20 years the proportion of people living in extreme povert
 Answer: been halved
 
 It is very intriguing to find out that the percentage of people living in extreme poverty worldwide have reduced by
-such a siginficant amount in the last 20 years. Some deeper analysis to understand the trend of percentage of people living in extreme poverty.
+such a siginficant amount in the last 20 years. Some deeper analysis to understand the trend of percentage of people living in extreme poverty might reveal some interesting things.
 
 
 Analysis:
