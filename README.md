@@ -1,5 +1,8 @@
 <h1><center>DS 5500 Assignment 1</center></h1>
 
+<h3><center>Notebook link:</center></h3>
+https://nbviewer.jupyter.org/github/ItsmeKumar/DS5500-HW1/blob/master/DS5500%20HW1.ipynb
+
 <h2><center>Problem 1</center></h2>
 
 Received a score of 6 out of 13. Yes, some of the answers related to poverty, literacy rate and health did suprise me.
